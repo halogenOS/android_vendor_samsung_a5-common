@@ -239,4 +239,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5-common/proprietary/vendor/lib/libaptXHD_encoder.so:system/vendor/lib/libaptXHD_encoder.so \
     vendor/samsung/a5-common/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/a5-common/proprietary/lib/libstlport.so:system/lib/libstlport.so \
-    vendor/samsung/a5-common/proprietary/lib/libprotobuf-cpp-l1te.so:system/lib/libprotobuf-cpp-l1te.so
+    vendor/samsung/a5-common/proprietary/lib/libprotobuf-cpp-l1te.so:system/lib/libprotobuf-cpp-l1te.so \
+    vendor/samsung/a5-common/proprietary/vendor/lib/hw/audio_amplifier.msm8916.so:system/vendor/lib/hw/audio_amplifier.msm8916.so
